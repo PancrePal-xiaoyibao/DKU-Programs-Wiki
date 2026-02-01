@@ -6,6 +6,9 @@ hero:
   name: "DKU x 小X宝"
   text: "AI 连接医学与工程实践"
   tagline: 面向学生、导师与 PMC 的协作知识库。聚焦真实患者痛点，把场景转化为可落地的技术方案。
+  image:
+    src: /logo.png
+    alt: DKU x 小X宝
   actions:
     - theme: brand
       text: 快速入门

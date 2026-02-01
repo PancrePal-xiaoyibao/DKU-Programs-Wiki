@@ -1,8 +1,8 @@
 # 小芙宝 - 妇科肿瘤智能助手
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-Alpha-orange.svg)]()
-[![Status](https://img.shields.io/badge/status-Development-yellow.svg)]()
+![Version](https://img.shields.io/badge/version-Alpha-orange.svg)
+![Status](https://img.shields.io/badge/status-Development-yellow.svg)
 
 > 专注于妇科肿瘤（宫颈癌、子宫内膜癌、卵巢癌）的AI智能助手，为患者及家属提供专业、准确、及时的医疗信息支持。
 
