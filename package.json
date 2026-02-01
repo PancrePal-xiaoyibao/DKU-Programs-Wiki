@@ -4,6 +4,9 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.16"
+  },
   "dependencies": {
     "markdown-it-task-lists": "^2.1.1"
   }
