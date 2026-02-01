@@ -72,6 +72,9 @@ export default defineConfig({
               ]
             }
           ]
+        },
+        editLink: {
+          pattern: 'https://github.com/PancrePal-xiaoyibao/DKU-Programs-Wiki/edit/main/docs/:path'
         }
       }
     },
@@ -126,6 +129,9 @@ export default defineConfig({
               ]
             }
           ]
+        },
+        editLink: {
+          pattern: 'https://github.com/PancrePal-xiaoyibao/DKU-Programs-Wiki/edit/main/docs/:path'
         }
       }
     },
@@ -180,6 +186,9 @@ export default defineConfig({
               ]
             }
           ]
+        },
+        editLink: {
+          pattern: 'https://github.com/PancrePal-xiaoyibao/DKU-Programs-Wiki/edit/main/docs/:path'
         }
       }
     }
